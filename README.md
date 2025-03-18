@@ -50,9 +50,13 @@ print("Candidate Scores:", scores)
 **Scoring Criteria**
 
 Language Quality (20%) - Evaluates grammar and readability of the resume.
+
 Experience Quality (20%) - Measures relevance of work experience to the job.
+
 Years of Experience (20%) - Calculates total work experience in years.
+
 Location Match (20%) - Gives preference to candidates closer to the job location.
+
 Job Match Score (20%) - Uses NLP to determine how well the resume matches the job description.
 
 **Dependencies**
