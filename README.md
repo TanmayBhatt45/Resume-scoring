@@ -34,7 +34,7 @@ Place resumes in a folder (e.g., resumes/)
 
 Define your job description, location, and country
 
-(2️) Run the Script
+(2) Run the Script
 
 from resume_scoring import batch_process
 
